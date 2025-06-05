@@ -8,6 +8,7 @@
 .left {
   display: flex;
   flex-direction: column;
+  background-color: grey;
   gap: 0.5vh;
   flex: 1; /* Take up remaining space in the flex container */
   padding: 1rem; /* Add padding for spacing */
@@ -54,6 +55,7 @@
   padding: 1rem;
   box-sizing: border-box;
   border:1px solid gray;
+  background-color: #393E46;
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
   overflow-y: auto; /* Enable vertical scrolling if content exceeds height */
 }
@@ -71,6 +73,7 @@
   flex: 1; /* Take up remaining space in the flex container */
   padding: 1rem; /* Add padding for spacing */
   box-sizing: border-box; /* Ensure padding is included in the width/height */
+  background-color: grey;
 }
 
 .editor-container {

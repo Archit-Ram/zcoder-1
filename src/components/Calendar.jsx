@@ -57,7 +57,7 @@ const Calendar = () => {
           upcomingContests.map((contest) => (
             <CalendarCompo
               key={contest.id}
-              background={"rgb(176, 217, 115)"}
+              background={"#393E46"}
               contest={contest}
             />
           ))
