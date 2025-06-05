@@ -1,6 +1,6 @@
 .Explore {
   padding: 2vh 5vw;
-  background-color:white;
+  background-color:#222831;
   width: 100vw;
 
   display: flex;
@@ -8,7 +8,7 @@
  
 }
 .Calendar {
-  background-color: white;
+  background-color: grey;
   padding: 2vh 1vw;
   height: 100%;
   width: 40%;
@@ -21,7 +21,7 @@
     0 16px 16px rgba(0, 0, 0, 0.11), 0 32px 32px rgba(0, 0, 0, 0.11);
 }
 .ExploreQuestion {
-  background-color: rgba(211, 244, 237, 0.735);
+  background-color: #DFD0B8;
   padding: 2vh 3vw;
   display: flex;
   flex-direction: column;
