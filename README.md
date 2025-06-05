@@ -8,12 +8,11 @@ Check out ZCoder live at: https://zcoder-1.vercel.app/
 ## Features
 
 ZCoder allows users to:
--Build personalized profiles to showcase technical skills, preferred tech stacks, and competitive programming ratings.
--Save and organize coding problems along with their statements and solutions, with the flexibility to set their visibility as public or private.
--Explore and engage with public coding problems shared by other users through viewing and commenting features.
--Stay informed about upcoming coding contests with an integrated contest calendar.
--Discover top-rated public coding problems from the community through a curated feed.
-
+- Build personalized profiles to showcase technical skills, preferred tech stacks, and competitive programming ratings.
+- Save and organize coding problems along with their statements and solutions, with the flexibility to set their visibility as public or private.
+- Explore and engage with public coding problems shared by other users through viewing and commenting features.
+- Stay informed about upcoming coding contests with an integrated contest calendar.
+- Discover top-rated public coding problems from the community through a curated feed.
 ## Tech Stack
 
 - **Frontend:** React
