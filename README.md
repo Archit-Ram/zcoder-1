@@ -3,7 +3,7 @@
 
 ZCoder is a comprehensive platform designed for developers to build and manage their coding profiles, monitor their competitive programming ratings, and keep track of upcoming coding contests. Users can bookmark their favorite coding problems, choose to make them public or private, and actively participate in the community by commenting on publicly shared problems. ZCoder empowers developers to organize their learning journey and connect with like-minded peers in the coding community.
 ## Live Hosted Link
-Check out ZCoder live at: https://zcoder-client.vercel.app/zcoder-1.vercel.app
+Check out ZCoder live at: https://zcoder-1.vercel.app/
 
 ## Features
 
