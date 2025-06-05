@@ -81,7 +81,7 @@ const Calendar = () => {
           pastContests.map((contest) => (
             <CalendarCompo
               key={contest.id}
-              background={"rgb(172, 172, 172)"}
+              background={"#393E46"}
               contest={contest}
             />
           ))
